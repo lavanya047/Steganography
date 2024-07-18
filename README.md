@@ -54,20 +54,12 @@ This Python script allows users to hide text messages inside images using stegan
 
 ## Example
 
-1. Provide the path to an image file (`example_image.jpg`).
-2. Enter a passcode (`Passw0rd!`).
-3. Enter text to hide (`This is a secret message!`).
+1. Provide the path to an image file (`1.jpeg`).
+2. Enter a passcode (`Lavanya@123`).
+3. Enter text to hide (`This is hidden message`).
 4. The script will encrypt the message and save it as `encrypted_img.jpg`.
 5. Choose to extract data, enter the passcode again, and the hidden text will be displayed.
 
-## Limitations
 
-- Currently, the script operates in a terminal environment. For a more user-friendly interface, consider developing a graphical user interface (GUI) using frameworks like Tkinter or PyQt.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to adjust the details according to your project structure and specific implementation. Include additional sections or details as needed to provide comprehensive instructions for users.
